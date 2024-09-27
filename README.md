@@ -34,9 +34,12 @@ My name is **Hannah Melo** from Brazil.
 
 - Watch movies
 - Hang out with my friends
+![The picture with my friends](images/WhatsApp%20Image%202024-09-27%20at%2019.15.47%20(1).jpeg)
 - Exercise 
+![The picture in the gym](images/WhatsApp%20Image%202024-09-27%20at%2019.18.09.jpeg)
 - Run
 - Take some drinks
+![The picture having fun](images/WhatsApp%20Image%202024-09-27%20at%2019.15.47.jpeg)
 
 ### The ranking of foods that I don't like
 

@@ -7,13 +7,16 @@ This Repository is about our background and history to know each other.
 My name is **Rin Morito** from Japan.
  I'm 19 years old.
 After I graduated in high school, I went to Victoria,BC for eight months to aquire enough English skill to go to college in Canada.
+![The picture of Victora](images/victoria.JPG)
 And now I'm enjoy studying Interactive Media Design in Fanshawe College.
-I'm a big fan of cats, I have three adorable cats in my home in Japan.
+I'm a big fan of cats, I have two adorable cats in my home in Japan.
+![The picture of my cats](images/cat_ranpon.JPG)
 
 ### My hobbies: 
 
 - Cooking
-- Ski
+- Ski & Snowbord
+![The picure of snowboard](images/snowbord.JPEG)
 - Drive
 - Camp
 
